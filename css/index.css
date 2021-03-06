@@ -1,0 +1,53 @@
+div.colorir{
+   background-color:  #f0f2f5; 
+   padding:135px;
+}
+
+div #logoFace{
+    width:280px;
+    
+}
+div #textoFace{    
+    font-size: 28px;
+    margin-left: 25px;
+    
+}
+
+div #txt-criar{
+    color:black;
+    font-weight: bold;  
+}
+div button#btn-criar p.txtFace div.txtFace{
+    font-family: FProDisplay-Regular, Helvetica, Arial, sans-serif;
+    
+}
+div.txtFace{
+    font-size: 14.5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+div #espaco{
+    padding: 30px;
+}
+div.card{
+    height: 360px;
+    border-radius: 10px;       
+}
+div input.form-control{
+    padding: 15px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+div button.btn{
+    font-weight: bold;
+   
+}
+div button#btn-criar{
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 17px;
+    background-color: #42b72a;
+    color:white;
+}
